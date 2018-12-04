@@ -1,0 +1,1 @@
+try to get https://my-json-server.typicode.com/greenplugin/cities-with-weather-json
