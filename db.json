@@ -1,93 +1,180 @@
 {
   "cities": [
     {
-      "name": "Ufa",
+      "name": "Rostov-na-Donu",
       "country": "RU",
       "wind": {
-        "speed": 2.64,
-        "deg": 182.004
+        "speed": 7,
+        "deg": 80
       },
-      "temp": 266.15,
-      "pressure": 1034
+      "temp": 0,
+      "pressure": 1020
+    },
+    {
+      "name": "Paris",
+      "country": "FR",
+      "wind": {
+        "speed": 2.6,
+        "deg": 130
+      },
+      "temp": 7.71,
+      "pressure": 1023
+    },
+    {
+      "name": "Omsk",
+      "country": "RU",
+      "wind": {
+        "speed": 6,
+        "deg": 130
+      },
+      "temp": -17,
+      "pressure": 1045
     },
     {
       "name": "Muenchen",
       "country": "DE",
       "wind": {
-        "speed": 0.5,
-        "deg": 250
+        "speed": 0.5
       },
-      "temp": 276.13,
-      "pressure": 1026
+      "temp": 1.81,
+      "pressure": 1027
     },
     {
-      "name": "Brooklyn",
+      "name": "Philadelphia",
       "country": "US",
       "wind": {
-        "speed": 3.59,
-        "deg": 336.004
+        "speed": 3.6,
+        "deg": 360
       },
-      "temp": 276.04,
-      "pressure": 1016
+      "temp": 0.62,
+      "pressure": 1017
     },
     {
-      "name": "Los Angeles",
+      "name": "New York",
       "country": "US",
       "wind": {
-        "speed": 1.06,
-        "deg": 46.0039
+        "speed": 3.31,
+        "deg": 357.501
       },
-      "temp": 294.11,
-      "pressure": 1015
+      "temp": 1.41,
+      "pressure": 1018
     },
     {
-      "name": "Chicago",
-      "country": "US",
+      "name": "Saint Petersburg",
+      "country": "RU",
       "wind": {
-        "speed": 3.1,
-        "deg": 310
+        "speed": 4,
+        "deg": 160
       },
-      "temp": 272.54,
-      "pressure": 1021
+      "temp": 2,
+      "pressure": 1005
     },
     {
-      "name": "Almaty",
-      "country": "KZ",
-      "wind": {
-        "speed": 2,
-        "deg": 200
-      },
-      "temp": 260.15,
-      "pressure": 1031
-    },
-    {
-      "name": "Dallas",
+      "name": "Phoenix",
       "country": "US",
       "wind": {
         "speed": 2.6,
-        "deg": 330
+        "deg": 300
       },
-      "temp": 280.92,
-      "pressure": 1027
+      "temp": 17.36,
+      "pressure": 1017
+    },
+    {
+      "name": "Novosibirsk",
+      "country": "RU",
+      "wind": {
+        "speed": 2,
+        "deg": 300
+      },
+      "temp": -38,
+      "pressure": 1054
     },
     {
       "name": "Samara",
       "country": "RU",
       "wind": {
         "speed": 2,
-        "deg": 120
+        "deg": 130
       },
-      "temp": 268.15,
+      "temp": -8,
       "pressure": 1031
+    },
+    {
+      "name": "Houston",
+      "country": "US",
+      "wind": {
+        "speed": 2.1
+      },
+      "temp": 13.16,
+      "pressure": 1025
+    },
+    {
+      "name": "Almaty",
+      "country": "KZ",
+      "wind": {
+        "speed": 1,
+        "deg": 180
+      },
+      "temp": -13,
+      "pressure": 1030
+    },
+    {
+      "name": "Nizhniy Novgorod",
+      "country": "RU",
+      "wind": {
+        "speed": 4,
+        "deg": 170
+      },
+      "temp": -5,
+      "pressure": 1026
+    },
+    {
+      "name": "Chicago",
+      "country": "US",
+      "wind": {
+        "speed": 5.1,
+        "deg": 270
+      },
+      "temp": -1,
+      "pressure": 1021
+    },
+    {
+      "name": "Los Angeles",
+      "country": "US",
+      "wind": {
+        "speed": 1.5
+      },
+      "temp": 20,
+      "pressure": 1013
+    },
+    {
+      "name": "Chelyabinsk",
+      "country": "RU",
+      "wind": {
+        "speed": 1,
+        "deg": 160
+      },
+      "temp": -7,
+      "pressure": 1033
+    },
+    {
+      "name": "Yekaterinburg",
+      "country": "RU",
+      "wind": {
+        "speed": 1,
+        "deg": 130
+      },
+      "temp": -6,
+      "pressure": 1033
     },
     {
       "name": "Tashkent",
       "country": "UZ",
       "wind": {
         "speed": 2.1,
-        "deg": 80
+        "deg": 60
       },
-      "temp": 273.15,
+      "temp": -1,
       "pressure": 1027
     },
     {
@@ -97,208 +184,118 @@
         "speed": 3,
         "deg": 120
       },
-      "temp": 269.15,
+      "temp": -5,
       "pressure": 1022
     },
     {
-      "name": "Houston",
+      "name": "Brooklyn",
       "country": "US",
       "wind": {
-        "speed": 2.1,
-        "gust": 6.2
+        "speed": 3.31,
+        "deg": 357.501
       },
-      "temp": 289.27,
-      "pressure": 1024
-    },
-    {
-      "name": "San Diego",
-      "country": "US",
-      "wind": {
-        "speed": 2.1,
-        "deg": 280
-      },
-      "temp": 294.19,
-      "pressure": 1015
-    },
-    {
-      "name": "New York",
-      "country": "US",
-      "wind": {
-        "speed": 3.59,
-        "deg": 336.004
-      },
-      "temp": 275.81,
-      "pressure": 1016
-    },
-    {
-      "name": "Volgograd",
-      "country": "RU",
-      "wind": {
-        "speed": 6,
-        "deg": 110
-      },
-      "temp": 271.15,
-      "pressure": 1025
-    },
-    {
-      "name": "Saint Petersburg",
-      "country": "RU",
-      "wind": {
-        "speed": 4,
-        "deg": 160
-      },
-      "temp": 274.15,
-      "pressure": 1005
-    },
-    {
-      "name": "Kazan",
-      "country": "RU",
-      "wind": {
-        "speed": 4,
-        "deg": 210
-      },
-      "temp": 268.15,
-      "pressure": 1030
-    },
-    {
-      "name": "Yekaterinburg",
-      "country": "RU",
-      "wind": {
-        "speed": 1.49,
-        "deg": 242.004
-      },
-      "temp": 267.15,
-      "pressure": 1033
-    },
-    {
-      "name": "Manhattan",
-      "country": "US",
-      "wind": {
-        "speed": 3.59,
-        "deg": 336.004
-      },
-      "temp": 275.73,
-      "pressure": 1016
-    },
-    {
-      "name": "Phoenix",
-      "country": "US",
-      "wind": {
-        "speed": 2.46,
-        "deg": 47.5039
-      },
-      "temp": 290.49,
+      "temp": 1.27,
       "pressure": 1018
     },
     {
-      "name": "Novosibirsk",
-      "country": "RU",
-      "wind": {
-        "speed": 1.34,
-        "deg": 36.0039
-      },
-      "temp": 236.15,
-      "pressure": 1054
-    },
-    {
-      "name": "Omsk",
-      "country": "RU",
-      "wind": {
-        "speed": 5,
-        "deg": 140
-      },
-      "temp": 255.15,
-      "pressure": 1046
-    },
-    {
-      "name": "Paris",
-      "country": "FR",
-      "wind": {
-        "speed": 2.6,
-        "deg": 130
-      },
-      "temp": 281.02,
-      "pressure": 1024
-    },
-    {
-      "name": "Nizhniy Novgorod",
-      "country": "RU",
-      "wind": {
-        "speed": 4,
-        "deg": 160
-      },
-      "temp": 268.15,
-      "pressure": 1026
-    },
-    {
-      "name": "Philadelphia",
+      "name": "Dallas",
       "country": "US",
-      "wind": {
-        "speed": 5.1,
-        "deg": 340,
-        "gust": 9.3
-      },
-      "temp": 275.74,
-      "pressure": 1017
-    },
-    {
-      "name": "Hamburg",
-      "country": "DE",
       "wind": {
         "speed": 3.6,
-        "deg": 260
+        "deg": 350
       },
-      "temp": 277.15,
-      "pressure": 1024
-    },
-    {
-      "name": "Chelyabinsk",
-      "country": "RU",
-      "wind": {
-        "speed": 1,
-        "deg": 200
-      },
-      "temp": 265.15,
-      "pressure": 1033
-    },
-    {
-      "name": "Washington",
-      "country": "US",
-      "wind": {
-        "speed": 1.5
-      },
-      "temp": 271.56,
+      "temp": 6.88,
       "pressure": 1028
-    },
-    {
-      "name": "Rostov-na-Donu",
-      "country": "RU",
-      "wind": {
-        "speed": 7,
-        "deg": 90
-      },
-      "temp": 273.15,
-      "pressure": 1021
     },
     {
       "name": "City of London",
       "country": "GB",
       "wind": {
         "speed": 3.1,
-        "deg": 150
+        "deg": 100
       },
-      "temp": 278.81,
-      "pressure": 1023
+      "temp": 5.87,
+      "pressure": 1022
+    },
+    {
+      "name": "Washington",
+      "country": "US",
+      "wind": {
+        "speed": 1.5,
+        "deg": 140
+      },
+      "temp": -1.98,
+      "pressure": 1027
+    },
+    {
+      "name": "San Diego",
+      "country": "US",
+      "wind": {
+        "speed": 3.6,
+        "deg": 260
+      },
+      "temp": 18.32,
+      "pressure": 1015
+    },
+    {
+      "name": "Hamburg",
+      "country": "DE",
+      "wind": {
+        "speed": 3.1,
+        "deg": 240
+      },
+      "temp": 3,
+      "pressure": 1024
+    },
+    {
+      "name": "Volgograd",
+      "country": "RU",
+      "wind": {
+        "speed": 5,
+        "deg": 110
+      },
+      "temp": -1,
+      "pressure": 1025
+    },
+    {
+      "name": "Manhattan",
+      "country": "US",
+      "wind": {
+        "speed": 3.31,
+        "deg": 357.501
+      },
+      "temp": 1.11,
+      "pressure": 1018
     },
     {
       "name": "San Antonio",
       "country": "US",
       "wind": {
-        "speed": 3.61,
-        "deg": 70.5039
+        "speed": 3.1,
+        "deg": 70
       },
-      "temp": 288.37,
+      "temp": 12.03,
       "pressure": 1024
+    },
+    {
+      "name": "Ufa",
+      "country": "RU",
+      "wind": {
+        "speed": 2,
+        "deg": 180
+      },
+      "temp": -11,
+      "pressure": 1034
+    },
+    {
+      "name": "Kazan",
+      "country": "RU",
+      "wind": {
+        "speed": 4,
+        "deg": 160
+      },
+      "temp": -6,
+      "pressure": 1030
     }
   ]
 }
